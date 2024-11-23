@@ -30,3 +30,5 @@ If all the faces of your dice are never the same, you lose!
 ##### Installation
 You can install this package using pip: 
 * pip install -i 
+
+#### This is an important section.
