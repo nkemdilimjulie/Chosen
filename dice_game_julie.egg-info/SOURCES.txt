@@ -1,0 +1,13 @@
+README.md
+setup.py
+dice_game_julie.egg-info/PKG-INFO
+dice_game_julie.egg-info/SOURCES.txt
+dice_game_julie.egg-info/dependency_links.txt
+dice_game_julie.egg-info/top_level.txt
+src/__init__.py
+src/create_dice.py
+src/die_abstract_parent.py
+src/game_describe.py
+src/game_options.py
+src/main.py
+src/roll_operations.py
